@@ -1,0 +1,15 @@
+html#cinza{
+    background-color: rgb(165, 156, 156);
+}
+html#verde{
+    background-color: aquamarine;
+}
+html#amarelo{
+    background-color: rgb(226, 214, 146);
+}
+body#verde{
+    color: rgb(12, 92, 92);
+}
+body#amarelo{
+    color: rgb(88, 63, 0);
+}

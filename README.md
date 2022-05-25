@@ -1,4 +1,4 @@
-# HTML_CSS_1_5
+# HTML5 e CSS3 1 de 5
 Módulo 1 completo do canal curso em vídeo de HTML5 e CSS3
 
 Aqui coloco todos os meus exercícios do curso gratuito do professor Guanabara criador do curso em vídeo.
